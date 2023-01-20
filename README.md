@@ -1,7 +1,7 @@
 # Lautaro Ezequiel Novelli
 
 
-**Computer Science student and Software Developer in training**
+**Computer Science student**
 
 - 🔭 I’m currently working on projects that you can see in L-Novelli/PY-Projects
 - 🌱 I’m currently learning Python advanced skills
