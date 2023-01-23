@@ -3,9 +3,10 @@
 
 **Computer Science student**
 
-- 🔭 I’m currently working on projects that you can see in L-Novelli/PY-Projects
-- 🌱 I’m currently learning Python advanced skills
-- 👯 I’m looking to collaborate on Python Projects as a Trainee/JR
+-  I’m currently working on projects that you can see in [Personal Proyects](https://github.com/L-Novelli/PY-Projects)
+-  Last project a worked on: [Coder House final project: GeekSpace](https://github.com/L-Novelli/GeekSpace)
+-  I’m currently learning Python advanced skills
+-  I’m looking to collaborate on Python Projects as a Trainee/JR
 - [Linkedin](https://www.linkedin.com/in/l-novelli/)
 
 ### 🧰 Languages and Tools
