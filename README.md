@@ -4,7 +4,7 @@
 **Computer Science student**
 
 -  I’m currently working on projects that you can see in [Personal Proyects](https://github.com/L-Novelli/PY-Projects)
--  Last project a worked on: [Coder House final project: GeekSpace](https://github.com/L-Novelli/GeekSpace)
+-  Last project a worked on: [Codo a Codo Course Project(W.I.P)](https://github.com/L-Novelli/CaC2023)
 -  I’m currently working as a SAP Support Analyst (but still looking for a job as a Python Dev)
 -  I’m looking to collaborate on Python Projects as a Trainee/JR
 - [Linkedin](https://www.linkedin.com/in/l-novelli/)
