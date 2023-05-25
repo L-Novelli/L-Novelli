@@ -19,6 +19,9 @@
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" />
 <img align="left" alt="VSC" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+
 
 
 
