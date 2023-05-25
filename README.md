@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" src="https://github.com/carla-allende/carla-allende/blob/main/ezgif-1-b91a2fa43a.gif" alt="hotlinemiami">
+    <img width="500" src="" alt="katanazero">
 </p>
 
 #Lautaro Ezequiel Novelli
