@@ -12,6 +12,8 @@
 
 </a>
 
+<p align="left">
+</p>
 ---
 
 <h3 align="left"> 🧰 Languages and Tools:</h3>
@@ -33,6 +35,7 @@
 </div>
 
 ---
+
 <h3 align="left"> 🧰 Languages and technologies I want to learn:</h3>
  <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp; 
