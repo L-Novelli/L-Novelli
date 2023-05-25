@@ -1,7 +1,6 @@
 # Lautaro Ezequiel Novelli
 
 
-**Computer Science student**
 
 -  I’m currently working on projects that you can see in [Codo a Codo Course Project(W.I.P)](https://github.com/L-Novelli/CaC2023)
 -  Last project a worked on: [Codo a Codo Course Project(W.I.P)](https://github.com/L-Novelli/CaC2023)
