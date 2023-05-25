@@ -8,8 +8,10 @@
 
 - 🤖 I’m currently learning **Machine Learning, AI, Numpy, Pandas, Anaconda**
 -  I’m currently working as a SAP Support Analyst (but still looking for a job as a Python Dev)
+<svg viewBox="0 0 128 128">
 - <a href="https://www.linkedin.com/in/l-novelli/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
  **Lautaro Novelli**
+</svg> 
 
 ---
 
