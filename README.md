@@ -20,8 +20,8 @@
 <h3 align="left"> 🧰 Languages and Tools:</h3>
 <div>
     <img align="left" alt="Git" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp; 
-    <img align="left" alt="Python" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />&nbsp; 
-    <img align="left" alt="Django" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&nbsp; 
+    <img align="left" alt="Python" width="40px" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />&nbsp; 
+    <img align="left" alt="Django" width="40px" height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />&nbsp; 
     <img align="left" alt="VSC" width="40px" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />&nbsp; 
     <img align="left" alt="MySQL" width="40px" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />&nbsp; 
     <img align="left" alt="SQLite" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />&nbsp; 
