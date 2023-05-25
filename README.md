@@ -2,8 +2,7 @@
     <img width="500" src="https://github.com/L-Novelli/L-Novelli/blob/main/katana-zero.gif" alt="katanazero">
 </p>
 
-#Lautaro Ezequiel Novelli
-
+<h1 align="center">⛩️ Lautaro ⛩️️</h1>
 
 
 -  I’m currently working on projects that you can see in [Codo a Codo Course Project(W.I.P)](https://github.com/L-Novelli/CaC2023)
