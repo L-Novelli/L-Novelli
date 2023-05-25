@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" src="" alt="katanazero">
+    <img width="500" src="https://github.com/L-Novelli/L-Novelli/blob/main/katana-zero.gif" alt="katanazero">
 </p>
 
 #Lautaro Ezequiel Novelli
