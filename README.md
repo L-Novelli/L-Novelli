@@ -8,7 +8,7 @@
 
 - 🤖 I’m currently learning **Machine Learning, AI, Numpy, Pandas, Anaconda**
 - I’m currently working as a SAP Support Analyst (but still looking for a job as a Python Dev)
-- </a><a href="https://www.linkedin.com/in/l-novelli/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+- </a><a href="https://www.linkedin.com/in/l-novelli/"><img align="center" width="40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 
 </a>
 
