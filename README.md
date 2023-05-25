@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" src="https://github.com/L-Novelli/L-Novelli/blob/main/katana-zero.gif" alt="katanazero">
+    <img width="500" src="https://media.tenor.com/UJuf6BXKCmgAAAAd/katana-zero.gif" alt="katanazero">
 </p>
 <h1 align="center">⛩️ Lautaro ⛩️️</h1>
 
