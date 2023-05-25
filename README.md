@@ -4,15 +4,16 @@
     <img width="500" src="https://media.tenor.com/UJuf6BXKCmgAAAAd/katana-zero.gif" alt="katanazero">
 </p>
 
+<h2 align="center">  👾Computer Science student👾</h2>
 
 -  I’m currently working on projects that you can see in [Codo a Codo Course Project(W.I.P)](https://github.com/L-Novelli/CaC2023)
 -  Last project a worked on: [Codo a Codo Course Project(W.I.P)](https://github.com/L-Novelli/CaC2023)
 -  I’m currently working as a SAP Support Analyst (but still looking for a job as a Python Dev)
 - [Linkedin](https://www.linkedin.com/in/l-novelli/)
 
-### 🧰 Languages and Tools
+<h3 align="left"> 🧰 Languages and Tools:</h3>
 
-
+<div>
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -24,7 +25,7 @@
 <img align="left" alt="VSC" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-
+</div>
 
 
 
