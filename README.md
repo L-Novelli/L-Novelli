@@ -39,6 +39,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensor Flow" alt="Tensor Flow" width="40" height="40"/>&nbsp; 
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" />&nbsp; 
+<img align="left" alt="Anaconda" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />&nbsp; 
 </div>
 
 <br />
