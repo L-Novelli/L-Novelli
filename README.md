@@ -45,5 +45,3 @@
     <img align="left" alt="R" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp; 
 </div>
 
-<br />
-
