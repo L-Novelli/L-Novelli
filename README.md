@@ -61,3 +61,9 @@
   </a>
 </p>
 </details>
+
+<p align="center">
+  <a href="https://github.com/L-Novelli">
+    <img src="https://komarev.com/ghpvc/?username=L-Novelli&color=red&style=flat)" />
+  </a>
+</p>
