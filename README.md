@@ -1,4 +1,4 @@
-<h1 align="center">⛩️Welcome⛩️️</h1>
+<h1 align="center">Welcome. Hola. Hallo. Ciao. Olá. こんにちは。Привет. </h1>
 
 <p align="center">
     <img width="500" src="https://media.tenor.com/UJuf6BXKCmgAAAAd/katana-zero.gif" alt="katanazero">
