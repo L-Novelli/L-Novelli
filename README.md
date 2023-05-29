@@ -45,3 +45,19 @@
     <img align="left" alt="R" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp; 
 </div>
 
+<details>
+<p align="center">
+  <a href="https://github.com/L-Novelli">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L-Novelli&theme=transparent" />
+  </a>
+  <a href="https://github.com/L-Novelli">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=L-Novelli&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/L-Novelli">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=L-Novelli&theme=transparent" />
+  </a>
+  <a href="https://github.com/L-Novelli">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Novelli&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
