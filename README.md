@@ -4,9 +4,6 @@
     <img width="500" src="https://media.tenor.com/UJuf6BXKCmgAAAAd/katana-zero.gif" alt="katanazero">
 </p>
 
-<h2 align="center">  👾Computer Science student👾</h2>
-
-- 🤖 I’m currently learning **Machine Learning, AI, Numpy, Pandas, Anaconda**
 - I’m currently working as a SAP Support Analyst
 - </a><a href="https://www.linkedin.com/in/l-novelli/"><img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 
@@ -41,8 +38,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensor Flow" alt="Tensor Flow" width="40" height="40"/>&nbsp; 
     <img align="left" alt="Bash" width="40px" height="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" />&nbsp; 
-    <img align="left" alt="Anaconda" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />&nbsp; 
-    <img align="left" alt="R" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp; 
 </div>
 
 <details>
