@@ -5,6 +5,7 @@
 </p>
 
 - I’m currently working as a SAP Support Analyst
+- Currently doing the Google Cybersecurity Professional Certificate at Coursera
 - </a><a href="https://www.linkedin.com/in/l-novelli/"><img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 
 </a>
