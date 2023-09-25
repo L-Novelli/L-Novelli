@@ -13,6 +13,11 @@
 </p>
 
 ---
+<h3 align="left"> Certifications:</h3>
+<div>
+    <img align="left" alt="Git" width="60px" height="60" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/google-cybersecurity-certificate.png" />&nbsp; 
+
+---
 
 <h3 align="left"> 🧰 Languages and Tools:</h3>
 <div>
