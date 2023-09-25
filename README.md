@@ -18,7 +18,7 @@
     <img align="left" alt="Git" width="400px" height="400" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/google-cybersecurity-certificate.png" />&nbsp; 
 </div>
 
----
+
 
 <h3 align="left"> 🧰 Languages and Tools:</h3>
 <div>
