@@ -15,7 +15,7 @@
 ---
 <h3 align="left"> Certifications:</h3>
 <div>
-    <img align="left" alt="Git" width="400px" height="400" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/google-cybersecurity-certificate.png" />&nbsp; 
+    <img align="left" alt="Git" width="400px" height="400" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/Cert/google-cybersecurity-certificate.png" />&nbsp; 
 </div>
 
 
