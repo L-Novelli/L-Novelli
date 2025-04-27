@@ -1,6 +1,8 @@
 <h1 align="center">Welcome. Hola. Hallo. Ciao. Olá. こんにちは。Привет. </h1>
 
 - </a><a href="https://www.linkedin.com/in/l-novelli/"><img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+- </a><a href="https://www.linkedin.com/in/l-novelli/"><img align="center" width="40px" src="https://github.com/L-Novelli/my-landing-page/blob/main/images/logo.png"/>
+
 
 </a>
 
